@@ -1,6 +1,4 @@
 def main(a,b):
-    a = 1
-    b = 1
     """
     Check the following statement "they are equal"
     Args:
