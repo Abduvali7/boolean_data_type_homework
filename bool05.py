@@ -1,5 +1,4 @@
 def main(a):
-    a = 5
     """
     check the following statement "The variable "a" is an odd number"
     Args:
