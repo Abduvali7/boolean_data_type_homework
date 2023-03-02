@@ -8,5 +8,5 @@ def main(a):
         bool
     """
     # Write your code here
-    return a%2==1
-print(main(6%2==1))
+    return a==7
+print(main(7==7))
